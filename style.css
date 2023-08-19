@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a17881e5-47be-4a75-a5ec-f64a921dfd93/dfqcnt5-5a76d301-d6a3-4b03-88d5-93ab047b9abe.png/v1/fit/w_800,h_800,q_70,strp/beautiful_night_sky_with_beautiful_moon_by_theannoyedpixie_dfqcnt5-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvYTE3ODgxZTUtNDdiZS00YTc1LWE1ZWMtZjY0YTkyMWRmZDkzXC9kZnFjbnQ1LTVhNzZkMzAxLWQ2YTMtNGIwMy04OGQ1LTkzYWIwNDdiOWFiZS5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.r1UBIoDnr0hDRQb2k4QDllz2IWHFwM74HS52supUKvU);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://e0.pxfuel.com/wallpapers/762/677/desktop-wallpaper-morning-sun-background-beautiful-sun-summer-sun-and-winter-sun-good-morning-sunshine.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://e0.pxfuel.com/wallpapers/213/93/desktop-wallpaper-widescreen-about-beautiful-sunrise-on-sun-rising-nature-of.jpg);
+}
+.carousel-item {
+  height: 500px;
+}
+.float-right {
+  float: right;
+}
